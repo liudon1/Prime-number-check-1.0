@@ -1,0 +1,23 @@
+Date of publish: 12/1/2016
+By superjoshmail@gmail.com
+
+Changelog
+
+21/24/2016
+Merry christmas. Added Endless prime mode.
+
+12/21/2016
+Great fixes and changes.
+
+12/3/2016
+The two endless checks were finished coding.
+The big AdvancedCheck update was finished.
+Everything is now available in German.
+
+12/2/2016
+The EndlessCheck has been releasing and is working.
+Update of the AdvancedCheck started.
+
+12/1/2016
+The test is now public with the modes EasyCheck, NormalCheck and AdvancedCheck.
+AdcancedCheck is still in work. 
